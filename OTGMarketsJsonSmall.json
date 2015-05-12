@@ -1,0 +1,32 @@
+{
+   "1":{
+      "id":"1",
+      "name":"5M: 5th and Minna",
+      "latitude":"37.782116",
+      "longitude":"-122.406235",
+      "market_type":"market",
+      "distance":"5837.980323978116",
+      "region":"San Francisco",
+      "truck_count":"5",
+      "rating":"4.5",
+      "is_favorite":"0",
+      "status":"closed",
+      "events_count":6,
+      "hash_key":"1-5m-5th-and-minna"
+   },
+   "38":{
+      "id":"38",
+      "name":"5T: 5th and Townsend",
+      "latitude":"37.775715",
+      "longitude":"-122.397652",
+      "market_type":"market",
+      "distance":"5838.624794404068",
+      "region":"San Francisco",
+      "truck_count":"3",
+      "rating":"0.0",
+      "is_favorite":"0",
+      "status":"closed",
+      "events_count":9,
+      "hash_key":"38-5t-5th-and-townsend"
+   }
+}
