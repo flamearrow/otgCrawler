@@ -2,6 +2,7 @@ import json
 import requests
 import xml.etree.ElementTree as EleT
 
+from json_grabber import get_json
 
 REQ_BASE = 'http://offthegridsf.com/wp-admin/admin-ajax.php?action=otg_market&delta=0&market=%s'
 
@@ -71,8 +72,7 @@ def parse_request(req, lat, lng):
 
 
 def parse_all():
-    with open("OTGMarketsJson.json", 'r') as json_in:
-        markets = json.load(json_in)
+    markets = get_json()
     ret = []
     for key in markets:
         print "processing key " + key

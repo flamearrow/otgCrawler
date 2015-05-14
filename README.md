@@ -5,7 +5,9 @@ Crawl off the grid website for their weekly schedules
 Usage: python otg_request.py
 
 
-The script will go though OTGMarketsJson.json(which is hard coded at the moment) for each of its id and use 'http://offthegridsf.com/wp-admin/admin-ajax.php?action=otg_market&delta=0&market=' to pull all schedules of THIS week.
+The script will go though OTGMarketsJson.json(which is parsed from source of http://offthegridsf.com/markets)
+For each of its id and use 'http://offthegridsf.com/wp-admin/admin-ajax.php?action=otg_market&delta=0&market='
+to pull all schedules of THIS week.
 Result is written to out.json as a list of following event objects:
 
 {

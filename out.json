@@ -72,105 +72,6 @@
         "truck_name":"3 Brothers Kitchen (2)"
     },
     {
-        "end":"0900",
-        "latitude":"37.947018",
-        "longitude":"-122.062431",
-        "start":"1700",
-        "address":"100 Gregory Lane, Pleasant Hill",
-        "date":"0513",
-        "truck_name":"The Chairman (1)"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.947018",
-        "longitude":"-122.062431",
-        "start":"1700",
-        "address":"100 Gregory Lane, Pleasant Hill",
-        "date":"0513",
-        "truck_name":"The Creme Brulee Cart"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.947018",
-        "longitude":"-122.062431",
-        "start":"1700",
-        "address":"100 Gregory Lane, Pleasant Hill",
-        "date":"0513",
-        "truck_name":"Bacon Bacon (1)"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.947018",
-        "longitude":"-122.062431",
-        "start":"1700",
-        "address":"100 Gregory Lane, Pleasant Hill",
-        "date":"0513",
-        "truck_name":"Doc's Classic Comfort Food"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.947018",
-        "longitude":"-122.062431",
-        "start":"1700",
-        "address":"100 Gregory Lane, Pleasant Hill",
-        "date":"0513",
-        "truck_name":"Drewski's Hot Rod Kitchen"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.947018",
-        "longitude":"-122.062431",
-        "start":"1700",
-        "address":"100 Gregory Lane, Pleasant Hill",
-        "date":"0513",
-        "truck_name":"Lobsta Truck (1)"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.947018",
-        "longitude":"-122.062431",
-        "start":"1700",
-        "address":"100 Gregory Lane, Pleasant Hill",
-        "date":"0513",
-        "truck_name":"United Bites"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.947018",
-        "longitude":"-122.062431",
-        "start":"1700",
-        "address":"100 Gregory Lane, Pleasant Hill",
-        "date":"0513",
-        "truck_name":"Lucky 13"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.947018",
-        "longitude":"-122.062431",
-        "start":"1700",
-        "address":"100 Gregory Lane, Pleasant Hill",
-        "date":"0513",
-        "truck_name":"Slightly Skewed"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.947018",
-        "longitude":"-122.062431",
-        "start":"1700",
-        "address":"100 Gregory Lane, Pleasant Hill",
-        "date":"0513",
-        "truck_name":"Tonli Dumpling"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.947018",
-        "longitude":"-122.062431",
-        "start":"1700",
-        "address":"100 Gregory Lane, Pleasant Hill",
-        "date":"0513",
-        "truck_name":"Yummi BBQ"
-    },
-    {
         "end":"1500",
         "latitude":"37.314430",
         "longitude":"-121.773308",
@@ -186,7 +87,7 @@
         "start":"1100",
         "address":"4075 Evergreen Village Square, San Jose",
         "date":"0516",
-        "truck_name":"Los Tolucas"
+        "truck_name":"Grilled Cheese Bandits"
     },
     {
         "end":"1500",
@@ -195,7 +96,7 @@
         "start":"1100",
         "address":"4075 Evergreen Village Square, San Jose",
         "date":"0516",
-        "truck_name":"Baba Kabob"
+        "truck_name":"Los Tolucas"
     },
     {
         "end":"1500",
@@ -214,114 +115,6 @@
         "address":"4075 Evergreen Village Square, San Jose",
         "date":"0516",
         "truck_name":"Brother Baby's BBQ"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"Curry Up Now"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"KoJa Kitchen"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"An the Go (1)"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"Go Streatery"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"WhipOut!"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"Lexie's Frozen Custard"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"Johnny Doughnuts"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"Hongry Kong (1)"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"Kenny's Heart and Soul"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"Slider Truck"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"The Kabob Job"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.899040",
-        "longitude":"-122.301926",
-        "start":"1700",
-        "address":"San Pablo and Carlson, El Cerrito",
-        "date":"0513",
-        "truck_name":"Canasta Kitchen"
     },
     {
         "end":"1400",
@@ -356,8 +149,8 @@
         "longitude":"-122.360718",
         "start":"1700",
         "address":"1065 California Drive , Burlingame",
-        "date":"0512",
-        "truck_name":"Little Green Cyclo (1)"
+        "date":"0519",
+        "truck_name":"Curry Up Now (1)"
     },
     {
         "end":"0900",
@@ -365,8 +158,8 @@
         "longitude":"-122.360718",
         "start":"1700",
         "address":"1065 California Drive , Burlingame",
-        "date":"0512",
-        "truck_name":"Bacon Bacon (1)"
+        "date":"0519",
+        "truck_name":"Seoul on Wheels"
     },
     {
         "end":"0900",
@@ -374,179 +167,152 @@
         "longitude":"-122.360718",
         "start":"1700",
         "address":"1065 California Drive , Burlingame",
-        "date":"0512",
-        "truck_name":"Naked Chorizo"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.586624",
-        "longitude":"-122.360718",
-        "start":"1700",
-        "address":"1065 California Drive , Burlingame",
-        "date":"0512",
-        "truck_name":"The Boneyard"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.586624",
-        "longitude":"-122.360718",
-        "start":"1700",
-        "address":"1065 California Drive , Burlingame",
-        "date":"0512",
-        "truck_name":"Johnny Doughnuts"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.586624",
-        "longitude":"-122.360718",
-        "start":"1700",
-        "address":"1065 California Drive , Burlingame",
-        "date":"0512",
-        "truck_name":"Madd Mex Cantina"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.586624",
-        "longitude":"-122.360718",
-        "start":"1700",
-        "address":"1065 California Drive , Burlingame",
-        "date":"0512",
-        "truck_name":"Me So Hungry Too"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.586624",
-        "longitude":"-122.360718",
-        "start":"1700",
-        "address":"1065 California Drive , Burlingame",
-        "date":"0512",
-        "truck_name":"Ark Grill"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.586624",
-        "longitude":"-122.360718",
-        "start":"1700",
-        "address":"1065 California Drive , Burlingame",
-        "date":"0512",
-        "truck_name":"3-Sum Eats"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.669601",
-        "longitude":"-122.469414",
-        "start":"1700",
-        "address":"3 Serramonte Center, Daly City",
-        "date":"0512",
-        "truck_name":"Senor Sisig (1)"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.669601",
-        "longitude":"-122.469414",
-        "start":"1700",
-        "address":"3 Serramonte Center, Daly City",
-        "date":"0512",
-        "truck_name":"The Chairman (1)"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.669601",
-        "longitude":"-122.469414",
-        "start":"1700",
-        "address":"3 Serramonte Center, Daly City",
-        "date":"0512",
-        "truck_name":"KoJa Kitchen"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.669601",
-        "longitude":"-122.469414",
-        "start":"1700",
-        "address":"3 Serramonte Center, Daly City",
-        "date":"0512",
+        "date":"0519",
         "truck_name":"An the Go (1)"
     },
     {
         "end":"0900",
-        "latitude":"37.669601",
-        "longitude":"-122.469414",
+        "latitude":"37.586624",
+        "longitude":"-122.360718",
         "start":"1700",
-        "address":"3 Serramonte Center, Daly City",
-        "date":"0512",
-        "truck_name":"Sam's Chowder Mobile"
+        "address":"1065 California Drive , Burlingame",
+        "date":"0519",
+        "truck_name":"Cluck It Up"
     },
     {
         "end":"0900",
-        "latitude":"37.669601",
-        "longitude":"-122.469414",
+        "latitude":"37.586624",
+        "longitude":"-122.360718",
         "start":"1700",
-        "address":"3 Serramonte Center, Daly City",
-        "date":"0512",
-        "truck_name":"Frozen Kuhsterd"
+        "address":"1065 California Drive , Burlingame",
+        "date":"0519",
+        "truck_name":"Lexie's Frozen Custard"
     },
     {
         "end":"0900",
-        "latitude":"37.669601",
-        "longitude":"-122.469414",
+        "latitude":"37.586624",
+        "longitude":"-122.360718",
         "start":"1700",
-        "address":"3 Serramonte Center, Daly City",
-        "date":"0512",
-        "truck_name":"3-3-3"
+        "address":"1065 California Drive , Burlingame",
+        "date":"0519",
+        "truck_name":"Hill County BBQ"
     },
     {
         "end":"0900",
-        "latitude":"37.669601",
-        "longitude":"-122.469414",
+        "latitude":"37.586624",
+        "longitude":"-122.360718",
         "start":"1700",
-        "address":"3 Serramonte Center, Daly City",
-        "date":"0512",
-        "truck_name":"The Waffle Roost"
+        "address":"1065 California Drive , Burlingame",
+        "date":"0519",
+        "truck_name":"Adam's Grub Truck"
     },
     {
         "end":"0900",
-        "latitude":"37.669601",
-        "longitude":"-122.469414",
+        "latitude":"37.586624",
+        "longitude":"-122.360718",
         "start":"1700",
-        "address":"3 Serramonte Center, Daly City",
-        "date":"0512",
-        "truck_name":"3 Brothers Kitchen (1)"
+        "address":"1065 California Drive , Burlingame",
+        "date":"0519",
+        "truck_name":"Gold Rush Eatery"
     },
     {
         "end":"0900",
-        "latitude":"37.669601",
-        "longitude":"-122.469414",
+        "latitude":"37.586624",
+        "longitude":"-122.360718",
+        "start":"1700",
+        "address":"1065 California Drive , Burlingame",
+        "date":"0519",
+        "truck_name":"Oaxacan Kitchen Mobile"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.671883",
+        "longitude":"-122.470634",
         "start":"1700",
         "address":"3 Serramonte Center, Daly City",
-        "date":"0512",
-        "truck_name":"Kome Sushi Burrito"
+        "date":"0519",
+        "truck_name":"Senor Sisig (1)"
     },
     {
-        "end":"1400",
-        "latitude":"37.830898",
-        "longitude":"-122.284592",
-        "start":"1100",
-        "address":"1333 Park Avenue @ Haven St., Emeryville",
-        "date":"0513",
-        "truck_name":"We Sushi"
+        "end":"0900",
+        "latitude":"37.671883",
+        "longitude":"-122.470634",
+        "start":"1700",
+        "address":"3 Serramonte Center, Daly City",
+        "date":"0519",
+        "truck_name":"The Creme Brulee Cart"
     },
     {
-        "end":"1400",
-        "latitude":"37.830898",
-        "longitude":"-122.284592",
-        "start":"1100",
-        "address":"1333 Park Avenue @ Haven St., Emeryville",
-        "date":"0513",
-        "truck_name":"El Porteno"
+        "end":"0900",
+        "latitude":"37.671883",
+        "longitude":"-122.470634",
+        "start":"1700",
+        "address":"3 Serramonte Center, Daly City",
+        "date":"0519",
+        "truck_name":"KoJa Kitchen"
     },
     {
-        "end":"1400",
-        "latitude":"37.830898",
-        "longitude":"-122.284592",
-        "start":"1100",
-        "address":"1333 Park Avenue @ Haven St., Emeryville",
-        "date":"0513",
-        "truck_name":"Southern Comfort Kitchen"
+        "end":"0900",
+        "latitude":"37.671883",
+        "longitude":"-122.470634",
+        "start":"1700",
+        "address":"3 Serramonte Center, Daly City",
+        "date":"0519",
+        "truck_name":"Bacon Bacon (1)"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.671883",
+        "longitude":"-122.470634",
+        "start":"1700",
+        "address":"3 Serramonte Center, Daly City",
+        "date":"0519",
+        "truck_name":"Madd Mex Cantina"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.671883",
+        "longitude":"-122.470634",
+        "start":"1700",
+        "address":"3 Serramonte Center, Daly City",
+        "date":"0519",
+        "truck_name":"Me So Hungry Too"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.671883",
+        "longitude":"-122.470634",
+        "start":"1700",
+        "address":"3 Serramonte Center, Daly City",
+        "date":"0519",
+        "truck_name":"Hula Truck (1)"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.671883",
+        "longitude":"-122.470634",
+        "start":"1700",
+        "address":"3 Serramonte Center, Daly City",
+        "date":"0519",
+        "truck_name":"Kokio Republic"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.671883",
+        "longitude":"-122.470634",
+        "start":"1700",
+        "address":"3 Serramonte Center, Daly City",
+        "date":"0519",
+        "truck_name":"T.Epiphany"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.671883",
+        "longitude":"-122.470634",
+        "start":"1700",
+        "address":"3 Serramonte Center, Daly City",
+        "date":"0519",
+        "truck_name":"Beyond the Border"
     },
     {
         "end":"0900",
@@ -608,8 +374,8 @@
         "longitude":"-122.565834",
         "start":"1700",
         "address":" 800 Sir Francis Drake Boulevard, San Anselmo",
-        "date":"0512",
-        "truck_name":"Pacific Puffs"
+        "date":"0519",
+        "truck_name":"Curry Up Now (1)"
     },
     {
         "end":"0900",
@@ -617,8 +383,8 @@
         "longitude":"-122.565834",
         "start":"1700",
         "address":" 800 Sir Francis Drake Boulevard, San Anselmo",
-        "date":"0512",
-        "truck_name":"El Porteno"
+        "date":"0519",
+        "truck_name":"The Rib Whip"
     },
     {
         "end":"0900",
@@ -626,8 +392,8 @@
         "longitude":"-122.565834",
         "start":"1700",
         "address":" 800 Sir Francis Drake Boulevard, San Anselmo",
-        "date":"0512",
-        "truck_name":"France Delices"
+        "date":"0519",
+        "truck_name":"Cheese Gone Wild"
     },
     {
         "end":"0900",
@@ -635,8 +401,8 @@
         "longitude":"-122.565834",
         "start":"1700",
         "address":" 800 Sir Francis Drake Boulevard, San Anselmo",
-        "date":"0512",
-        "truck_name":"Caribbean Spices"
+        "date":"0519",
+        "truck_name":"WhipOut!"
     },
     {
         "end":"0900",
@@ -644,8 +410,8 @@
         "longitude":"-122.565834",
         "start":"1700",
         "address":" 800 Sir Francis Drake Boulevard, San Anselmo",
-        "date":"0512",
-        "truck_name":"Kenny's Heart and Soul"
+        "date":"0519",
+        "truck_name":"Johnny Doughnuts"
     },
     {
         "end":"0900",
@@ -653,8 +419,8 @@
         "longitude":"-122.565834",
         "start":"1700",
         "address":" 800 Sir Francis Drake Boulevard, San Anselmo",
-        "date":"0512",
-        "truck_name":"Opie's Gourmet Stacked Burgers"
+        "date":"0519",
+        "truck_name":"3 Brothers Kitchen (1)"
     },
     {
         "end":"0900",
@@ -662,8 +428,17 @@
         "longitude":"-122.565834",
         "start":"1700",
         "address":" 800 Sir Francis Drake Boulevard, San Anselmo",
-        "date":"0512",
-        "truck_name":"The Kabob Job"
+        "date":"0519",
+        "truck_name":"EuroBistros"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.980556",
+        "longitude":"-122.565834",
+        "start":"1700",
+        "address":" 800 Sir Francis Drake Boulevard, San Anselmo",
+        "date":"0519",
+        "truck_name":"Pluck"
     },
     {
         "end":"0900",
@@ -896,33 +671,6 @@
         "longitude":"-122.393059",
         "start":"1100",
         "address":"Corner of Brannan and Jack London Alley between 3rd and 2nd streets, San Francisco",
-        "date":"0512",
-        "truck_name":"Subs on Hubs"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.781109",
-        "longitude":"-122.393059",
-        "start":"1100",
-        "address":"Corner of Brannan and Jack London Alley between 3rd and 2nd streets, San Francisco",
-        "date":"0512",
-        "truck_name":"Mobowl"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.781109",
-        "longitude":"-122.393059",
-        "start":"1100",
-        "address":"Corner of Brannan and Jack London Alley between 3rd and 2nd streets, San Francisco",
-        "date":"0512",
-        "truck_name":"Kokio Republic"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.781109",
-        "longitude":"-122.393059",
-        "start":"1100",
-        "address":"Corner of Brannan and Jack London Alley between 3rd and 2nd streets, San Francisco",
         "date":"0514",
         "truck_name":"Bacon Bacon (1)"
     },
@@ -946,57 +694,30 @@
     },
     {
         "end":"1400",
-        "latitude":"37.782116",
-        "longitude":"-122.406235",
+        "latitude":"37.781109",
+        "longitude":"-122.393059",
         "start":"1100",
-        "address":"410 Minna St, San Francisco",
-        "date":"0513",
-        "truck_name":"Curry Up Now"
+        "address":"Corner of Brannan and Jack London Alley between 3rd and 2nd streets, San Francisco",
+        "date":"0519",
+        "truck_name":"The Rib Whip"
     },
     {
         "end":"1400",
-        "latitude":"37.782116",
-        "longitude":"-122.406235",
+        "latitude":"37.781109",
+        "longitude":"-122.393059",
         "start":"1100",
-        "address":"410 Minna St, San Francisco",
-        "date":"0513",
-        "truck_name":"Ebbett's Good to Go"
+        "address":"Corner of Brannan and Jack London Alley between 3rd and 2nd streets, San Francisco",
+        "date":"0519",
+        "truck_name":"Korean Bob Cha"
     },
     {
         "end":"1400",
-        "latitude":"37.782116",
-        "longitude":"-122.406235",
+        "latitude":"37.781109",
+        "longitude":"-122.393059",
         "start":"1100",
-        "address":"410 Minna St, San Francisco",
-        "date":"0513",
-        "truck_name":"The Boneyard"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.782116",
-        "longitude":"-122.406235",
-        "start":"1100",
-        "address":"410 Minna St, San Francisco",
-        "date":"0513",
-        "truck_name":"3 Brothers Kitchen (1)"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.782116",
-        "longitude":"-122.406235",
-        "start":"1100",
-        "address":"410 Minna St, San Francisco",
-        "date":"0513",
-        "truck_name":"Peru Chi"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.782116",
-        "longitude":"-122.406235",
-        "start":"1100",
-        "address":"410 Minna St, San Francisco",
-        "date":"0513",
-        "truck_name":"3-Sum Eats"
+        "address":"Corner of Brannan and Jack London Alley between 3rd and 2nd streets, San Francisco",
+        "date":"0519",
+        "truck_name":"The Steamin' Burger"
     },
     {
         "end":"1400",
@@ -1045,8 +766,8 @@
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
@@ -1054,8 +775,8 @@
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
@@ -1063,17 +784,17 @@
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
-        "truck_name":"Curry Up Now"
+        "truck_name":"Curry Up Now (1)"
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
@@ -1081,8 +802,8 @@
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
@@ -1090,8 +811,8 @@
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
@@ -1099,8 +820,8 @@
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
@@ -1108,8 +829,8 @@
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
@@ -1117,8 +838,8 @@
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
@@ -1126,8 +847,8 @@
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
@@ -1135,8 +856,8 @@
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
@@ -1144,48 +865,12 @@
     },
     {
         "end":"0900",
-        "latitude":"37.768250",
-        "longitude":"-122.453331",
+        "latitude":"37.768330",
+        "longitude":"-122.453461",
         "start":"1700",
         "address":"Stanyan St amp; Waller St, San Francisco",
         "date":"0514",
         "truck_name":"Philz"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.799221",
-        "longitude":"-122.399979",
-        "start":"1100",
-        "address":"850 Front St. , San Francisco",
-        "date":"0513",
-        "truck_name":"The Chairman (1)"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.799221",
-        "longitude":"-122.399979",
-        "start":"1100",
-        "address":"850 Front St. , San Francisco",
-        "date":"0513",
-        "truck_name":"Curry Up Now"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.799221",
-        "longitude":"-122.399979",
-        "start":"1100",
-        "address":"850 Front St. , San Francisco",
-        "date":"0513",
-        "truck_name":"Seoulful Korean Fried Chicken"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.799221",
-        "longitude":"-122.399979",
-        "start":"1100",
-        "address":"850 Front St. , San Francisco",
-        "date":"0513",
-        "truck_name":"The Kabob Job"
     },
     {
         "end":"1400",
@@ -1225,48 +910,39 @@
     },
     {
         "end":"1400",
-        "latitude":"37.779800",
-        "longitude":"-122.413780",
+        "latitude":"37.799221",
+        "longitude":"-122.399979",
         "start":"1100",
-        "address":"1150 Market St, San Francisco, San Francisco",
-        "date":"0512",
-        "truck_name":"Curry Up Now"
+        "address":"850 Front St. , San Francisco",
+        "date":"0518",
+        "truck_name":"Sanguchon (1)"
     },
     {
         "end":"1400",
-        "latitude":"37.779800",
-        "longitude":"-122.413780",
+        "latitude":"37.799221",
+        "longitude":"-122.399979",
         "start":"1100",
-        "address":"1150 Market St, San Francisco, San Francisco",
-        "date":"0512",
-        "truck_name":"Phat Thai"
+        "address":"850 Front St. , San Francisco",
+        "date":"0518",
+        "truck_name":"The Rib Whip"
     },
     {
         "end":"1400",
-        "latitude":"37.779800",
-        "longitude":"-122.413780",
+        "latitude":"37.799221",
+        "longitude":"-122.399979",
         "start":"1100",
-        "address":"1150 Market St, San Francisco, San Francisco",
-        "date":"0512",
-        "truck_name":"SAJJ"
+        "address":"850 Front St. , San Francisco",
+        "date":"0518",
+        "truck_name":"Voodoo Van"
     },
     {
         "end":"1400",
-        "latitude":"37.779800",
-        "longitude":"-122.413780",
+        "latitude":"37.799221",
+        "longitude":"-122.399979",
         "start":"1100",
-        "address":"1150 Market St, San Francisco, San Francisco",
-        "date":"0512",
-        "truck_name":"Me So Hungry Too"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.779800",
-        "longitude":"-122.413780",
-        "start":"1100",
-        "address":"1150 Market St, San Francisco, San Francisco",
-        "date":"0512",
-        "truck_name":"Tokiko"
+        "address":"850 Front St. , San Francisco",
+        "date":"0518",
+        "truck_name":"Korean Bob Cha"
     },
     {
         "end":"1400",
@@ -1314,6 +990,51 @@
         "truck_name":"Beyond the Border"
     },
     {
+        "end":"1400",
+        "latitude":"37.779800",
+        "longitude":"-122.413780",
+        "start":"1100",
+        "address":"1150 Market St, San Francisco, San Francisco",
+        "date":"0519",
+        "truck_name":"Sanguchon (1)"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.779800",
+        "longitude":"-122.413780",
+        "start":"1100",
+        "address":"1150 Market St, San Francisco, San Francisco",
+        "date":"0519",
+        "truck_name":"We Sushi"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.779800",
+        "longitude":"-122.413780",
+        "start":"1100",
+        "address":"1150 Market St, San Francisco, San Francisco",
+        "date":"0519",
+        "truck_name":"Subs on Hubs"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.779800",
+        "longitude":"-122.413780",
+        "start":"1100",
+        "address":"1150 Market St, San Francisco, San Francisco",
+        "date":"0519",
+        "truck_name":"DUM Truck"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.779800",
+        "longitude":"-122.413780",
+        "start":"1100",
+        "address":"1150 Market St, San Francisco, San Francisco",
+        "date":"0519",
+        "truck_name":"Kokio Republic"
+    },
+    {
         "end":"1000",
         "latitude":"37.806816",
         "longitude":"-122.431488",
@@ -1330,15 +1051,6 @@
         "address":"2 Marina Blvd, San Francisco",
         "date":"0515",
         "truck_name":"Bini's Kitchen"
-    },
-    {
-        "end":"1000",
-        "latitude":"37.806816",
-        "longitude":"-122.431488",
-        "start":"1700",
-        "address":"2 Marina Blvd, San Francisco",
-        "date":"0515",
-        "truck_name":"Bok Ssam"
     },
     {
         "end":"1000",
@@ -1374,7 +1086,7 @@
         "start":"1700",
         "address":"2 Marina Blvd, San Francisco",
         "date":"0515",
-        "truck_name":"Curry Up Now"
+        "truck_name":"Curry Up Now (1)"
     },
     {
         "end":"1000",
@@ -1572,6 +1284,15 @@
         "start":"1700",
         "address":"2 Marina Blvd, San Francisco",
         "date":"0515",
+        "truck_name":"Opie's Gourmet Stacked Burgers"
+    },
+    {
+        "end":"1000",
+        "latitude":"37.806816",
+        "longitude":"-122.431488",
+        "start":"1700",
+        "address":"2 Marina Blvd, San Francisco",
+        "date":"0515",
         "truck_name":"T.Epiphany"
     },
     {
@@ -1582,15 +1303,6 @@
         "address":"2 Marina Blvd, San Francisco",
         "date":"0515",
         "truck_name":"Burma Bear"
-    },
-    {
-        "end":"1000",
-        "latitude":"37.806816",
-        "longitude":"-122.431488",
-        "start":"1700",
-        "address":"2 Marina Blvd, San Francisco",
-        "date":"0515",
-        "truck_name":"CHICA"
     },
     {
         "end":"1000",
@@ -1618,6 +1330,159 @@
         "address":"2 Marina Blvd, San Francisco",
         "date":"0515",
         "truck_name":"Rye on the Road"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.518349",
+        "longitude":"-122.273178",
+        "start":"1700",
+        "address":"1325 El Camino Real, Belmont",
+        "date":"0518",
+        "truck_name":"The Chairman (1)"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.518349",
+        "longitude":"-122.273178",
+        "start":"1700",
+        "address":"1325 El Camino Real, Belmont",
+        "date":"0518",
+        "truck_name":"An the Go (1)"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.518349",
+        "longitude":"-122.273178",
+        "start":"1700",
+        "address":"1325 El Camino Real, Belmont",
+        "date":"0518",
+        "truck_name":"Pacific Puffs"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.518349",
+        "longitude":"-122.273178",
+        "start":"1700",
+        "address":"1325 El Camino Real, Belmont",
+        "date":"0518",
+        "truck_name":"Sam's Chowder Mobile (1)"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.518349",
+        "longitude":"-122.273178",
+        "start":"1700",
+        "address":"1325 El Camino Real, Belmont",
+        "date":"0518",
+        "truck_name":"The Boneyard"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.518349",
+        "longitude":"-122.273178",
+        "start":"1700",
+        "address":"1325 El Camino Real, Belmont",
+        "date":"0518",
+        "truck_name":"Me So Hungry Too"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.518349",
+        "longitude":"-122.273178",
+        "start":"1700",
+        "address":"1325 El Camino Real, Belmont",
+        "date":"0518",
+        "truck_name":"Red Sauce Meatballs"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.518349",
+        "longitude":"-122.273178",
+        "start":"1700",
+        "address":"1325 El Camino Real, Belmont",
+        "date":"0518",
+        "truck_name":"Pluck"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.518349",
+        "longitude":"-122.273178",
+        "start":"1700",
+        "address":"1325 El Camino Real, Belmont",
+        "date":"0518",
+        "truck_name":"Kokio Republic"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.670837",
+        "longitude":"-122.085793",
+        "start":"1700",
+        "address":"777 B Street, Hayward",
+        "date":"0518",
+        "truck_name":"Go Streatery"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.670837",
+        "longitude":"-122.085793",
+        "start":"1700",
+        "address":"777 B Street, Hayward",
+        "date":"0518",
+        "truck_name":"My Shrimp Shack"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.670837",
+        "longitude":"-122.085793",
+        "start":"1700",
+        "address":"777 B Street, Hayward",
+        "date":"0518",
+        "truck_name":"Frozen Kuhsterd"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.670837",
+        "longitude":"-122.085793",
+        "start":"1700",
+        "address":"777 B Street, Hayward",
+        "date":"0518",
+        "truck_name":"Smothered Fries"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.670837",
+        "longitude":"-122.085793",
+        "start":"1700",
+        "address":"777 B Street, Hayward",
+        "date":"0518",
+        "truck_name":"H Butler's Bar BBQ"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.670837",
+        "longitude":"-122.085793",
+        "start":"1700",
+        "address":"777 B Street, Hayward",
+        "date":"0518",
+        "truck_name":"Grillaz Gone Wild"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.670837",
+        "longitude":"-122.085793",
+        "start":"1700",
+        "address":"777 B Street, Hayward",
+        "date":"0518",
+        "truck_name":"Canasta Kitchen"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.670837",
+        "longitude":"-122.085793",
+        "start":"1700",
+        "address":"777 B Street, Hayward",
+        "date":"0518",
+        "truck_name":"Southern Comfort Kitchen"
     },
     {
         "end":"0900",
@@ -1707,7 +1572,7 @@
         "start":"1700",
         "address":"1000 Oak St, Oakland",
         "date":"0515",
-        "truck_name":"Curry Up Now"
+        "truck_name":"Curry Up Now (1)"
     },
     {
         "end":"0900",
@@ -1815,7 +1680,7 @@
         "start":"1100",
         "address":"McAllister and 1 Dr Carlton B Goodlett Pl, San Francisco",
         "date":"0515",
-        "truck_name":"Curry Up Now"
+        "truck_name":"Curry Up Now (1)"
     },
     {
         "end":"1400",
@@ -1833,7 +1698,7 @@
         "start":"1100",
         "address":"McAllister and 1 Dr Carlton B Goodlett Pl, San Francisco",
         "date":"0515",
-        "truck_name":"Sam's Chowder Mobile"
+        "truck_name":"Sam's Chowder Mobile (1)"
     },
     {
         "end":"1400",
@@ -1940,33 +1805,6 @@
         "longitude":"-122.397652",
         "start":"1100",
         "address":"678 5th Street, San Francisco",
-        "date":"0513",
-        "truck_name":"Phat Thai"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.775715",
-        "longitude":"-122.397652",
-        "start":"1100",
-        "address":"678 5th Street, San Francisco",
-        "date":"0513",
-        "truck_name":"Subs on Hubs"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.775715",
-        "longitude":"-122.397652",
-        "start":"1100",
-        "address":"678 5th Street, San Francisco",
-        "date":"0513",
-        "truck_name":"Tokiko"
-    },
-    {
-        "end":"1400",
-        "latitude":"37.775715",
-        "longitude":"-122.397652",
-        "start":"1100",
-        "address":"678 5th Street, San Francisco",
         "date":"0515",
         "truck_name":"Subs on Hubs"
     },
@@ -1987,6 +1825,33 @@
         "address":"678 5th Street, San Francisco",
         "date":"0515",
         "truck_name":"Judie's Tacos Locos"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.775715",
+        "longitude":"-122.397652",
+        "start":"1100",
+        "address":"678 5th Street, San Francisco",
+        "date":"0518",
+        "truck_name":"Bacon Bacon (1)"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.775715",
+        "longitude":"-122.397652",
+        "start":"1100",
+        "address":"678 5th Street, San Francisco",
+        "date":"0518",
+        "truck_name":"Doc's Classic Comfort Food"
+    },
+    {
+        "end":"1400",
+        "latitude":"37.775715",
+        "longitude":"-122.397652",
+        "start":"1100",
+        "address":"678 5th Street, San Francisco",
+        "date":"0518",
+        "truck_name":"The Kabob Job"
     },
     {
         "end":"1600",
@@ -2386,96 +2251,6 @@
     },
     {
         "end":"0900",
-        "latitude":"37.453758",
-        "longitude":"-122.181107",
-        "start":"1700",
-        "address":"1120 Merrill St, Menlo Park",
-        "date":"0513",
-        "truck_name":"El Sur"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.453758",
-        "longitude":"-122.181107",
-        "start":"1700",
-        "address":"1120 Merrill St, Menlo Park",
-        "date":"0513",
-        "truck_name":"Pacific Puffs"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.453758",
-        "longitude":"-122.181107",
-        "start":"1700",
-        "address":"1120 Merrill St, Menlo Park",
-        "date":"0513",
-        "truck_name":"Hiyaaa"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.453758",
-        "longitude":"-122.181107",
-        "start":"1700",
-        "address":"1120 Merrill St, Menlo Park",
-        "date":"0513",
-        "truck_name":"The Boneyard"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.453758",
-        "longitude":"-122.181107",
-        "start":"1700",
-        "address":"1120 Merrill St, Menlo Park",
-        "date":"0513",
-        "truck_name":"The Waffle Roost"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.453758",
-        "longitude":"-122.181107",
-        "start":"1700",
-        "address":"1120 Merrill St, Menlo Park",
-        "date":"0513",
-        "truck_name":"DUM Truck"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.453758",
-        "longitude":"-122.181107",
-        "start":"1700",
-        "address":"1120 Merrill St, Menlo Park",
-        "date":"0513",
-        "truck_name":"Mobowl"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.453758",
-        "longitude":"-122.181107",
-        "start":"1700",
-        "address":"1120 Merrill St, Menlo Park",
-        "date":"0513",
-        "truck_name":"Tacos El Gondo"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.453758",
-        "longitude":"-122.181107",
-        "start":"1700",
-        "address":"1120 Merrill St, Menlo Park",
-        "date":"0513",
-        "truck_name":"3 Brothers Kitchen (1)"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.453758",
-        "longitude":"-122.181107",
-        "start":"1700",
-        "address":"1120 Merrill St, Menlo Park",
-        "date":"0513",
-        "truck_name":"Paddy Wagon Sliders"
-    },
-    {
-        "end":"0900",
         "latitude":"37.873489",
         "longitude":"-122.282700",
         "start":"1700",
@@ -2602,57 +2377,66 @@
     },
     {
         "end":"0900",
-        "latitude":"37.313171",
-        "longitude":"-122.072380",
+        "latitude":"37.406269",
+        "longitude":"-122.120743",
         "start":"1700",
-        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
-        "date":"0512",
-        "truck_name":"The Creme Brulee Cart"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.313171",
-        "longitude":"-122.072380",
-        "start":"1700",
-        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
-        "date":"0512",
+        "address":"4290 El Camino Real , Palo Alto",
+        "date":"0518",
         "truck_name":"We Sushi"
     },
     {
         "end":"0900",
-        "latitude":"37.313171",
-        "longitude":"-122.072380",
+        "latitude":"37.406269",
+        "longitude":"-122.120743",
         "start":"1700",
-        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
-        "date":"0512",
-        "truck_name":"Hill County BBQ"
+        "address":"4290 El Camino Real , Palo Alto",
+        "date":"0518",
+        "truck_name":"Rocko's Ice Cream Tacos"
     },
     {
         "end":"0900",
-        "latitude":"37.313171",
-        "longitude":"-122.072380",
+        "latitude":"37.406269",
+        "longitude":"-122.120743",
         "start":"1700",
-        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
-        "date":"0512",
-        "truck_name":"Oaxacan Kitchen Mobile"
+        "address":"4290 El Camino Real , Palo Alto",
+        "date":"0518",
+        "truck_name":"Roderick's BBQ"
     },
     {
         "end":"0900",
-        "latitude":"37.313171",
-        "longitude":"-122.072380",
+        "latitude":"37.406269",
+        "longitude":"-122.120743",
         "start":"1700",
-        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
-        "date":"0512",
+        "address":"4290 El Camino Real , Palo Alto",
+        "date":"0518",
         "truck_name":"Lobsta Truck (1)"
     },
     {
         "end":"0900",
-        "latitude":"37.313171",
-        "longitude":"-122.072380",
+        "latitude":"37.406269",
+        "longitude":"-122.120743",
         "start":"1700",
-        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
-        "date":"0512",
-        "truck_name":"Hula Truck (1)"
+        "address":"4290 El Camino Real , Palo Alto",
+        "date":"0518",
+        "truck_name":"Soulnese"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.406269",
+        "longitude":"-122.120743",
+        "start":"1700",
+        "address":"4290 El Camino Real , Palo Alto",
+        "date":"0518",
+        "truck_name":"Speedy Panini"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.406269",
+        "longitude":"-122.120743",
+        "start":"1700",
+        "address":"4290 El Camino Real , Palo Alto",
+        "date":"0518",
+        "truck_name":"Los Tolucas"
     },
     {
         "end":"0900",
@@ -2660,8 +2444,8 @@
         "longitude":"-122.072380",
         "start":"1700",
         "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
-        "date":"0512",
-        "truck_name":"Road Dogs"
+        "date":"0519",
+        "truck_name":"The Chairman (1)"
     },
     {
         "end":"0900",
@@ -2669,7 +2453,52 @@
         "longitude":"-122.072380",
         "start":"1700",
         "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
-        "date":"0512",
+        "date":"0519",
+        "truck_name":"Curry Up Now (1)"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.313171",
+        "longitude":"-122.072380",
+        "start":"1700",
+        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
+        "date":"0519",
+        "truck_name":"Sam's Chowder Mobile (1)"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.313171",
+        "longitude":"-122.072380",
+        "start":"1700",
+        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
+        "date":"0519",
+        "truck_name":"Frozen Kuhsterd"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.313171",
+        "longitude":"-122.072380",
+        "start":"1700",
+        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
+        "date":"0519",
+        "truck_name":"Hongry Kong (1)"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.313171",
+        "longitude":"-122.072380",
+        "start":"1700",
+        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
+        "date":"0519",
+        "truck_name":"Paddy Wagon Sliders"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.313171",
+        "longitude":"-122.072380",
+        "start":"1700",
+        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
+        "date":"0519",
         "truck_name":"Porky's SJ"
     },
     {
@@ -2678,8 +2507,17 @@
         "longitude":"-122.072380",
         "start":"1700",
         "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
-        "date":"0512",
-        "truck_name":"Pluck"
+        "date":"0519",
+        "truck_name":"Crepe 'Em Coming"
+    },
+    {
+        "end":"0900",
+        "latitude":"37.313171",
+        "longitude":"-122.072380",
+        "start":"1700",
+        "address":"Cupertino Whole Foods, 20955 Stevens Creek Blvd (Between N Stelling Rd and Saich Way), Cupertino",
+        "date":"0519",
+        "truck_name":"Takoz Mod Mex"
     },
     {
         "end":"0900",
@@ -2752,86 +2590,5 @@
         "address":"Sunnyvale Sports Basement, 1177 Kern Ave, Sunnyvale",
         "date":"0514",
         "truck_name":"Baba Kabob"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.557060",
-        "longitude":"-122.270012",
-        "start":"1700",
-        "address":"650 Shell Blvd, Foster City",
-        "date":"0513",
-        "truck_name":"We Sushi"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.557060",
-        "longitude":"-122.270012",
-        "start":"1700",
-        "address":"650 Shell Blvd, Foster City",
-        "date":"0513",
-        "truck_name":"Cheese Gone Wild"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.557060",
-        "longitude":"-122.270012",
-        "start":"1700",
-        "address":"650 Shell Blvd, Foster City",
-        "date":"0513",
-        "truck_name":"Sam's Chowder Mobile"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.557060",
-        "longitude":"-122.270012",
-        "start":"1700",
-        "address":"650 Shell Blvd, Foster City",
-        "date":"0513",
-        "truck_name":"Frozen Kuhsterd"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.557060",
-        "longitude":"-122.270012",
-        "start":"1700",
-        "address":"650 Shell Blvd, Foster City",
-        "date":"0513",
-        "truck_name":"Korean Bob Cha"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.557060",
-        "longitude":"-122.270012",
-        "start":"1700",
-        "address":"650 Shell Blvd, Foster City",
-        "date":"0513",
-        "truck_name":"Hill County BBQ"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.557060",
-        "longitude":"-122.270012",
-        "start":"1700",
-        "address":"650 Shell Blvd, Foster City",
-        "date":"0513",
-        "truck_name":"EuroBistros"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.557060",
-        "longitude":"-122.270012",
-        "start":"1700",
-        "address":"650 Shell Blvd, Foster City",
-        "date":"0513",
-        "truck_name":"Pluck"
-    },
-    {
-        "end":"0900",
-        "latitude":"37.557060",
-        "longitude":"-122.270012",
-        "start":"1700",
-        "address":"650 Shell Blvd, Foster City",
-        "date":"0513",
-        "truck_name":"Ark Grill"
     }
 ]
